@@ -12,7 +12,7 @@ The application comprises a well-designed frontend with a streamlined set of fea
 
 While the application offers room for future extensions and improvements, it effectively aids users in selecting the most suitable Barcelona neighborhood for their needs. This eliminates the manual and time-consuming task of sifting through unprocessed internet data, making the decision-making process more efficient and data-informed.
 
-<img src="hoods_logo.png" alt="Hoods" width="200" height="200" />
+<img src="hoods_logo.png" alt="Hoods" width="400" height="300" />
 
 ---
 

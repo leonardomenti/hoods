@@ -1,4 +1,4 @@
-# Hoods - Housing Open Data Survey
+# HOODS - HOusing Open Data Survey
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# University Project: Hoods - Housing Open Data Survey
+# Hoods - Housing Open Data Survey
 
 ## Introduction
 
